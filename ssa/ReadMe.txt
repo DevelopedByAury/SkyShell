@@ -1,1 +1,0 @@
-- If SkyShell didn't open, then you need to open CMD as admin and type (lodctr /r) https://prnt.sc/ot1mna
