@@ -5,6 +5,9 @@ SkyShell, güvenli ve şifreli bir bağlantı üzerinden uzak bilgisayarları iz
 SkyShell is a professional Remote Administration Tool (RAT) designed to monitor and manage remote computers over a secure, encrypted connection. The project is built with a modular architecture and flexible management tools to streamline system administration workflows.
 
 > Developed by **Aury**
+>
+> 
+<img width="1169" height="363" alt="image" src="https://github.com/user-attachments/assets/4cf1c4b5-91b3-4dd6-ad0e-6f2a01ae9bbf" />
 
 ---
 
